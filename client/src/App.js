@@ -22,6 +22,7 @@ import Posts from './components/posts/Posts';
 import Developers from './components/developers/Developers';
 import Profile from './components/profiles/Profile';
 import Post from './components/posts/Post';
+import NotFound from '../src/components/layout/NotFound';
 
 const GlobalStyle = createGlobalStyle`
   *{
@@ -108,6 +109,9 @@ const App = () => {
             exact
             component={Post}
           />
+          <Route path='/'>
+            <NotFound />
+          </Route>
         </Container>
       </Switch>
     </ThemeProvider>
