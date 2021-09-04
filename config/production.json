@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb+srv://hungvoMERN123:Mern123@devconnector.yw7zs.mongodb.net/socialNetworkDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "socialNetworkSecretToken",
+  "githubToken": "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"
+}

@@ -1,0 +1,17 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "tabWidth": 2,
+  "singleQuote": true,
+  "semi": false,
+  "cSpell.words": [
+    "Dhide",
+    "Hhide",
+    "Raleway",
+    "fieldofstudy",
+    "githubusername",
+    "linkedin",
+    "repos",
+    "youtube"
+  ]
+}
